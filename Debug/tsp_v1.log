@@ -1,0 +1,30 @@
+﻿  BranchAndBound.cpp
+D:\visual_studio_projects\tsp_v1\tsp_v1\BranchAndBound.cpp(63,31): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+D:\visual_studio_projects\tsp_v1\tsp_v1\BranchAndBound.cpp(68,68): warning C4244: аргумент: преобразование "double" в "size_t", возможна потеря данных
+D:\visual_studio_projects\tsp_v1\tsp_v1\BranchAndBound.cpp(87,21): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+D:\visual_studio_projects\tsp_v1\tsp_v1\BranchAndBound.cpp(88,27): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+D:\visual_studio_projects\tsp_v1\tsp_v1\BranchAndBound.cpp(93,64): warning C4244: аргумент: преобразование "double" в "size_t", возможна потеря данных
+D:\visual_studio_projects\tsp_v1\tsp_v1\BranchAndBound.cpp(96,21): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+D:\visual_studio_projects\tsp_v1\tsp_v1\Matrix.h(105,27): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\visual_studio_projects\tsp_v1\tsp_v1\Matrix.h(104): message : во время компиляции функции-члена класс шаблон "T *Math::Matrix<T>::operator [](size_t)"
+          with
+          [
+              T=double
+          ]
+D:\visual_studio_projects\tsp_v1\tsp_v1\BranchAndBound.cpp(21): message : выполняется компиляция ссылки на экземпляр шаблон функции "T *Math::Matrix<T>::operator [](size_t)"
+          with
+          [
+              T=double
+          ]
+D:\visual_studio_projects\tsp_v1\tsp_v1\BranchAndBound.h(17): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Math::Matrix<double>"
+  main.cpp
+  Создание кода...
+  tsp_v1.vcxproj -> D:\visual_studio_projects\tsp_v1\tsp_v1\Debug\tsp_v1.exe
